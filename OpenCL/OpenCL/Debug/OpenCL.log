@@ -1,3 +1,2 @@
 ﻿  Application.cpp
-C:\dev\opengl\OpenCL\OpenCL\src\Application.cpp(45,32): error C2198: 'PFNGLENABLEVERTEXARRAYATTRIBPROC': too few arguments for call
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(518,5): error MSB6006: "CL.exe" exited with code 2.
+  OpenCL.vcxproj -> C:\dev\opengl\OpenCL\Debug\OpenCL.exe
